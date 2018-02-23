@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 
 class attr(object):
     def __init__(s,g): s.g = g

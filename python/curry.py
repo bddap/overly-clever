@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 
 def curry( f, *a ,**k ):
     def j( *b, **l ):

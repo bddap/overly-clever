@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 
 from threading import Lock
 from queue import Queue

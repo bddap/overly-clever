@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 
 class Node:
 
@@ -73,16 +74,3 @@ if __name__ == '__main__':
     for t in range(10):
         time.sleep(1)
         d.apply(g)
-
-
-
-
-
-
-
-
-
-
-
-
-        #

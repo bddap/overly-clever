@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 
 def bind(f,*a,**k):
     """Does the same thing as functools.partial"""
